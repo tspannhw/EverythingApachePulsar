@@ -12,3 +12,17 @@ EverythingApachePulsar
 ## Videos
 
 * https://www.youtube.com/watch?v=Ri64eoces4M&t=1708s
+
+
+## Meetups
+
+* https://www.meetup.com/SF-Bay-Area-Apache-Pulsar-Meetup
+
+
+## Links
+
+* https://github.com/streamnative/awesome-pulsar
+* https://github.com/streamnative/examples
+* https://github.com/streamnative/pulsar_weekly/tree/master/content/2021/2021-07
+* https://github.com/streamnative/openmessaging-benchmark
+* 
