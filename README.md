@@ -17,7 +17,7 @@ EverythingApachePulsar
 * https://thenewstack.io/kafka-alternative-pulsar-unifies-streaming-and-queuing/
 * https://www.verizonmedia.com/technology/blog/apache-pulsar-overview
 * https://medium.com/streamnative/apache-pulsar-launches-2-8-unified-messaging-and-streaming-with-transactions-37dad479cba1
-
+* https://streamnative.io/en/blog/release/2021-06-14-exactly-once-semantics-with-transactions-in-pulsar
 
 ## Pulsar + Flink => FLiP
 
