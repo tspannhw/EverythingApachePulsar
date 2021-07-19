@@ -7,6 +7,8 @@ EverythingApachePulsar
 * https://www.baeldung.com/apache-pulsar
 * https://medium.com/capital-one-tech/apache-pulsar-apaches-newest-pub-sub-messaging-platform-1c1ba1a6c673
 * https://thenewstack.io/kafka-alternative-pulsar-unifies-streaming-and-queuing/
+* https://www.verizonmedia.com/technology/blog/apache-pulsar-overview
+* https://medium.com/streamnative/apache-pulsar-launches-2-8-unified-messaging-and-streaming-with-transactions-37dad479cba1
 
 
 ## Pulsar + Flink => FLiP
