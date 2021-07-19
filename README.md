@@ -1,6 +1,10 @@
 # EverythingApachePulsar
 EverythingApachePulsar
 
+## Getting Started
+
+* https://pulsar.apache.org/docs/en/standalone/
+
 
 ## Articles
 
