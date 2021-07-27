@@ -32,6 +32,10 @@ EverythingApachePulsar
 
 * https://www.youtube.com/watch?v=Ri64eoces4M&t=1708s
 
+## Quick Guides
+
+* https://github.com/streamthoughts/apache-pulsar-cheat-sheet
+
 
 ## Meetups
 
