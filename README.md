@@ -23,6 +23,11 @@ EverythingApachePulsar
 
 * https://streamnative.io/en/blog/release/2021-04-20-flink-sql-on-streamnative-cloud
 
+## Tools
+
+* Pulsar Viewer https://github.com/osomahe/pulsar-viewer
+* Pulsar Source App https://github.com/osomahe/pulsar-source-app
+
 ## Videos
 
 * https://www.youtube.com/watch?v=Ri64eoces4M&t=1708s
