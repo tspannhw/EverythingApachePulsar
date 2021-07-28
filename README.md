@@ -18,6 +18,10 @@ EverythingApachePulsar
 * https://www.verizonmedia.com/technology/blog/apache-pulsar-overview
 * https://medium.com/streamnative/apache-pulsar-launches-2-8-unified-messaging-and-streaming-with-transactions-37dad479cba1
 * https://streamnative.io/en/blog/release/2021-06-14-exactly-once-semantics-with-transactions-in-pulsar
+* https://www.splunk.com/en_us/blog/it/introduction-to-the-apache-pulsar-pub-sub-messaging-platform.html
+* https://www.splunk.com/en_us/blog/it/creating-work-queues-with-apache-kafka-and-apache-pulsar.html
+* https://www.splunk.com/en_us/blog/it/comparing-pulsar-and-kafka-unified-queuing-and-streaming.html
+* https://jack-vanlightly.com/blog/2018/10/2/understanding-how-apache-pulsar-works
 
 ## Pulsar + Flink => FLiP
 
