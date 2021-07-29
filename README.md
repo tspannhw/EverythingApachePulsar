@@ -32,6 +32,11 @@ EverythingApachePulsar
 * Pulsar Viewer https://github.com/osomahe/pulsar-viewer
 * Pulsar Source App https://github.com/osomahe/pulsar-source-app
 
+## DevOps
+
+* https://docs.streamnative.io/snctl/v0.9.0/#create
+
+
 ## Videos
 
 * https://www.youtube.com/watch?v=Ri64eoces4M&t=1708s
