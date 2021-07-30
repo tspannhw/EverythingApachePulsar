@@ -23,6 +23,7 @@ EverythingApachePulsar
 * https://www.splunk.com/en_us/blog/it/comparing-pulsar-and-kafka-unified-queuing-and-streaming.html
 * https://jack-vanlightly.com/blog/2018/10/2/understanding-how-apache-pulsar-works
 * https://www.fedai.org/
+* https://medium.com/streamnative/apache-pulsar-launches-2-8-unified-messaging-and-streaming-with-transactions-37dad479cba1
 
 ## Pulsar + Flink => FLiP
 
