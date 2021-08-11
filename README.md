@@ -24,6 +24,8 @@ EverythingApachePulsar
 * https://jack-vanlightly.com/blog/2018/10/2/understanding-how-apache-pulsar-works
 * https://www.fedai.org/
 * https://medium.com/streamnative/apache-pulsar-launches-2-8-unified-messaging-and-streaming-with-transactions-37dad479cba1
+* https://www.verizonmedia.com/technology/blog/apache-pulsar-overview
+* https://streamnative.io/en/blog/tech/2020-09-28-announcing-mqtt-on-pulsar/
 
 ## Pulsar + Flink => FLiP
 
