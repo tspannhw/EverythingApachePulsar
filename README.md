@@ -26,6 +26,7 @@ EverythingApachePulsar
 * https://medium.com/streamnative/apache-pulsar-launches-2-8-unified-messaging-and-streaming-with-transactions-37dad479cba1
 * https://www.verizonmedia.com/technology/blog/apache-pulsar-overview
 * https://streamnative.io/en/blog/tech/2020-09-28-announcing-mqtt-on-pulsar/
+* https://www.alibabacloud.com/blog/batch-and-stream-integration-of-flink-and-pulsar_597954
 
 ## Pulsar + Flink => FLiP
 
