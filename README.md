@@ -45,6 +45,8 @@ EverythingApachePulsar
 ## Videos
 
 * https://www.youtube.com/watch?v=Ri64eoces4M&t=1708s
+* https://www.youtube.com/watch?v=bgyP3m8QmuI&t=1s
+* https://www.youtube.com/watch?v=hI1Y_qMilsA
 
 ## Quick Guides
 
