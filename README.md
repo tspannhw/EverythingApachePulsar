@@ -10,6 +10,10 @@ EverythingApachePulsar
 * https://pulsar.apache.org/docs/en/standalone/
 
 
+## Flink + Pulsar
+
+* https://nightlies.apache.org/flink/flink-docs-release-1.14/docs/connectors/datastream/pulsar/#apache-pulsar-connector
+
 ## Articles
 
 * https://www.baeldung.com/apache-pulsar
