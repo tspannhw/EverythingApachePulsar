@@ -73,4 +73,6 @@ EverythingApachePulsar
 * https://github.com/streamnative/tgip/blob/master/README.md
 * https://pulsar.apache.org/docs/en/functions-api/#functions-for-python
 * https://pulsar.apache.org/docs/en/concepts-messaging/
-* 
+* https://github.com/cbornet/generator-jhipster-pulsar
+* https://github.com/bbonnin/pulsar-express
+* https://github.com/datastax/pulsar-heartbeat
