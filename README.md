@@ -68,4 +68,9 @@ EverythingApachePulsar
 * https://github.com/streamnative/examples
 * https://github.com/streamnative/pulsar_weekly/tree/master/content/2021/2021-07
 * https://github.com/streamnative/openmessaging-benchmark
+* https://github.com/streamnative/rop
+* https://github.com/osomahe/pulsar-viewer
+* https://github.com/streamnative/tgip/blob/master/README.md
+* https://pulsar.apache.org/docs/en/functions-api/#functions-for-python
+* https://pulsar.apache.org/docs/en/concepts-messaging/
 * 
