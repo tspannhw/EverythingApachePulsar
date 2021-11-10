@@ -20,6 +20,7 @@ EverythingApachePulsar
 ## Articles
 
 * https://www.baeldung.com/apache-pulsar
+* https://www.infoq.com/articles/pulsar-customer-engagement-platform/?utm_source=thenewstack&utm_medium=website&utm_campaign=platform
 * https://thenewstack.io/apache-pulsar-a-unified-queueing-and-streaming-platform/
 * https://medium.com/capital-one-tech/apache-pulsar-apaches-newest-pub-sub-messaging-platform-1c1ba1a6c673
 * https://thenewstack.io/kafka-alternative-pulsar-unifies-streaming-and-queuing/
