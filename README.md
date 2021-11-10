@@ -12,6 +12,7 @@ EverythingApachePulsar
 ## Great Tips
 
 * https://stackoverflow.com/questions/69889739/pulsar-client-thread-balance/69901688#69901688
+* https://stackoverflow.com/questions/64386611/what-is-the-most-efficient-way-to-delete-expire-all-messages-in-a-apache-pulsar
 
 ## Flink + Pulsar
 
