@@ -9,6 +9,9 @@ EverythingApachePulsar
 
 * https://pulsar.apache.org/docs/en/standalone/
 
+## Great Tips
+
+* https://stackoverflow.com/questions/69889739/pulsar-client-thread-balance/69901688#69901688
 
 ## Flink + Pulsar
 
@@ -17,6 +20,7 @@ EverythingApachePulsar
 ## Articles
 
 * https://www.baeldung.com/apache-pulsar
+* https://thenewstack.io/apache-pulsar-a-unified-queueing-and-streaming-platform/
 * https://medium.com/capital-one-tech/apache-pulsar-apaches-newest-pub-sub-messaging-platform-1c1ba1a6c673
 * https://thenewstack.io/kafka-alternative-pulsar-unifies-streaming-and-queuing/
 * https://www.verizonmedia.com/technology/blog/apache-pulsar-overview
