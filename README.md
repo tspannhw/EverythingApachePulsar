@@ -82,3 +82,14 @@ EverythingApachePulsar
 * https://github.com/cbornet/generator-jhipster-pulsar
 * https://github.com/bbonnin/pulsar-express
 * https://github.com/datastax/pulsar-heartbeat
+
+# Definitely check out the pulsar slack (apache-pulsar.slack.com).   got this great tip
+
+````
+
+Node.js client is based on the C++ client, so you need to install C++ client library.
+https://pulsar.apache.org/docs/en/client-libraries-node/#requirements
+I recommend that you use listener  to process messages.
+If you use receive()  instead of listener , you need to be careful about the number of worker threads.
+See detail: https://github.com/apache/pulsar/blob/master/site2/docs/client-libraries-node.md#note-1
+````
